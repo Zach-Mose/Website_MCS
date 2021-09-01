@@ -1,16 +1,16 @@
 # Website_MCS
 A simple website for a construction industry
 # Requirements
- -Web Pages
+ Web Pages:
 
-   -Home
+   - Home
 
-   -About
+   - About
 
-   -Service = Construction & Supply
+   - Service : Construction & Supply
 
-   -Contact
+   - Contact
 
- -Contact Form validation
+ - Contact Form validation
 
- -Nodemailer for interactive contact form
+ - Nodemailer for interactive contact form
