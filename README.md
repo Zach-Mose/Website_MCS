@@ -1,5 +1,5 @@
 # Website_MCS
-A simple website for a construction industry
+A simple website for a construction company
 # Requirements
  Web Pages:
 
